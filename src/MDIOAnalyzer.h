@@ -18,7 +18,7 @@ struct PacketType
 };
 
 class MDIOAnalyzerSettings;
-class ANALYZER_EXPORT MDIOAnalyzer : public Analyzer2
+class MDIOAnalyzer : public Analyzer2
 {
 public:
 	MDIOAnalyzer();
